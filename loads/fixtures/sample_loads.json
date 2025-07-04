@@ -1,0 +1,1502 @@
+[
+  {
+    "model": "loads.load",
+    "pk": 1,
+    "fields": {
+      "origin": "Phoenix, AZ",
+      "destination": "Houston, TX",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 29371,
+      "distance_miles": 503,
+      "rate_usd": "688.21",
+      "equipment_type": "Flatbed",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 2,
+    "fields": {
+      "origin": "Los Angeles, CA",
+      "destination": "El Paso, TX",
+      "pickup_date": "2025-07-05",
+      "delivery_date": "2025-07-06",
+      "weight_lbs": 39853,
+      "distance_miles": 1992,
+      "rate_usd": "2141.6",
+      "equipment_type": "Flatbed",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 3,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-15",
+      "weight_lbs": 23715,
+      "distance_miles": 904,
+      "rate_usd": "2637.7",
+      "equipment_type": "Reefer",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 4,
+    "fields": {
+      "origin": "Chicago, IL",
+      "destination": "Miami, FL",
+      "pickup_date": "2025-07-08",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 24604,
+      "distance_miles": 826,
+      "rate_usd": "2237.65",
+      "equipment_type": "Reefer",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 5,
+    "fields": {
+      "origin": "Houston, TX",
+      "destination": "Chicago, IL",
+      "pickup_date": "2025-07-12",
+      "delivery_date": "2025-07-13",
+      "weight_lbs": 32521,
+      "distance_miles": 308,
+      "rate_usd": "992.49",
+      "equipment_type": "Flatbed",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 6,
+    "fields": {
+      "origin": "Atlanta, GA",
+      "destination": "Houston, TX",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-13",
+      "weight_lbs": 15449,
+      "distance_miles": 670,
+      "rate_usd": "594.24",
+      "equipment_type": "Reefer",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 7,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-05",
+      "delivery_date": "2025-07-07",
+      "weight_lbs": 43386,
+      "distance_miles": 1863,
+      "rate_usd": "4718.77",
+      "equipment_type": "Reefer",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 8,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Houston, TX",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 19991,
+      "distance_miles": 1879,
+      "rate_usd": "1522.76",
+      "equipment_type": "Dry Van",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 9,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Phoenix, AZ",
+      "pickup_date": "2025-07-11",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 21643,
+      "distance_miles": 815,
+      "rate_usd": "3424.76",
+      "equipment_type": "Flatbed",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 10,
+    "fields": {
+      "origin": "Austin, TX",
+      "destination": "Los Angeles, CA",
+      "pickup_date": "2025-07-13",
+      "delivery_date": "2025-07-14",
+      "weight_lbs": 16894,
+      "distance_miles": 665,
+      "rate_usd": "1716.69",
+      "equipment_type": "Dry Van",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 11,
+    "fields": {
+      "origin": "Atlanta, GA",
+      "destination": "Miami, FL",
+      "pickup_date": "2025-07-05",
+      "delivery_date": "2025-07-08",
+      "weight_lbs": 41602,
+      "distance_miles": 651,
+      "rate_usd": "1518.71",
+      "equipment_type": "Flatbed",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 12,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Los Angeles, CA",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-11",
+      "weight_lbs": 36877,
+      "distance_miles": 1493,
+      "rate_usd": "2542.67",
+      "equipment_type": "Step Deck",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 13,
+    "fields": {
+      "origin": "Phoenix, AZ",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-12",
+      "delivery_date": "2025-07-15",
+      "weight_lbs": 21339,
+      "distance_miles": 1304,
+      "rate_usd": "1878.39",
+      "equipment_type": "Step Deck",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 14,
+    "fields": {
+      "origin": "Atlanta, GA",
+      "destination": "Los Angeles, CA",
+      "pickup_date": "2025-07-07",
+      "delivery_date": "2025-07-08",
+      "weight_lbs": 43066,
+      "distance_miles": 129,
+      "rate_usd": "1082.11",
+      "equipment_type": "Step Deck",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 15,
+    "fields": {
+      "origin": "Los Angeles, CA",
+      "destination": "El Paso, TX",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 19281,
+      "distance_miles": 492,
+      "rate_usd": "2749.31",
+      "equipment_type": "Flatbed",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 16,
+    "fields": {
+      "origin": "Austin, TX",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-16",
+      "weight_lbs": 40661,
+      "distance_miles": 1308,
+      "rate_usd": "1114.33",
+      "equipment_type": "Flatbed",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 17,
+    "fields": {
+      "origin": "Austin, TX",
+      "destination": "Phoenix, AZ",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 29608,
+      "distance_miles": 997,
+      "rate_usd": "4761.02",
+      "equipment_type": "Flatbed",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 18,
+    "fields": {
+      "origin": "Austin, TX",
+      "destination": "Houston, TX",
+      "pickup_date": "2025-07-06",
+      "delivery_date": "2025-07-09",
+      "weight_lbs": 30407,
+      "distance_miles": 929,
+      "rate_usd": "1854.39",
+      "equipment_type": "Dry Van",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 19,
+    "fields": {
+      "origin": "Austin, TX",
+      "destination": "El Paso, TX",
+      "pickup_date": "2025-07-11",
+      "delivery_date": "2025-07-14",
+      "weight_lbs": 39943,
+      "distance_miles": 807,
+      "rate_usd": "2465.61",
+      "equipment_type": "Reefer",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 20,
+    "fields": {
+      "origin": "Dallas, TX",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-12",
+      "delivery_date": "2025-07-15",
+      "weight_lbs": 16869,
+      "distance_miles": 1608,
+      "rate_usd": "2591.04",
+      "equipment_type": "Reefer",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 21,
+    "fields": {
+      "origin": "Atlanta, GA",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-11",
+      "weight_lbs": 42658,
+      "distance_miles": 305,
+      "rate_usd": "4748.57",
+      "equipment_type": "Flatbed",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 22,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "San Antonio, TX",
+      "pickup_date": "2025-07-13",
+      "delivery_date": "2025-07-15",
+      "weight_lbs": 39113,
+      "distance_miles": 277,
+      "rate_usd": "2443.48",
+      "equipment_type": "Dry Van",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 23,
+    "fields": {
+      "origin": "Austin, TX",
+      "destination": "Miami, FL",
+      "pickup_date": "2025-07-06",
+      "delivery_date": "2025-07-07",
+      "weight_lbs": 26368,
+      "distance_miles": 1554,
+      "rate_usd": "1729.29",
+      "equipment_type": "Flatbed",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 24,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "Chicago, IL",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-16",
+      "weight_lbs": 10956,
+      "distance_miles": 504,
+      "rate_usd": "670.82",
+      "equipment_type": "Reefer",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 25,
+    "fields": {
+      "origin": "Houston, TX",
+      "destination": "Atlanta, GA",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-15",
+      "weight_lbs": 14309,
+      "distance_miles": 856,
+      "rate_usd": "3717.64",
+      "equipment_type": "Reefer",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 26,
+    "fields": {
+      "origin": "Dallas, TX",
+      "destination": "El Paso, TX",
+      "pickup_date": "2025-07-06",
+      "delivery_date": "2025-07-07",
+      "weight_lbs": 20169,
+      "distance_miles": 1201,
+      "rate_usd": "1905.32",
+      "equipment_type": "Flatbed",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 27,
+    "fields": {
+      "origin": "Los Angeles, CA",
+      "destination": "El Paso, TX",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-13",
+      "weight_lbs": 33136,
+      "distance_miles": 1518,
+      "rate_usd": "1365.46",
+      "equipment_type": "Dry Van",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 28,
+    "fields": {
+      "origin": "Miami, FL",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-05",
+      "delivery_date": "2025-07-06",
+      "weight_lbs": 15968,
+      "distance_miles": 361,
+      "rate_usd": "3637.21",
+      "equipment_type": "Dry Van",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 29,
+    "fields": {
+      "origin": "Dallas, TX",
+      "destination": "Phoenix, AZ",
+      "pickup_date": "2025-07-08",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 44569,
+      "distance_miles": 1399,
+      "rate_usd": "1632.58",
+      "equipment_type": "Reefer",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 30,
+    "fields": {
+      "origin": "Phoenix, AZ",
+      "destination": "Chicago, IL",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 30483,
+      "distance_miles": 605,
+      "rate_usd": "3914.02",
+      "equipment_type": "Dry Van",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 31,
+    "fields": {
+      "origin": "Chicago, IL",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-08",
+      "delivery_date": "2025-07-09",
+      "weight_lbs": 32132,
+      "distance_miles": 813,
+      "rate_usd": "1788.94",
+      "equipment_type": "Step Deck",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 32,
+    "fields": {
+      "origin": "Miami, FL",
+      "destination": "Los Angeles, CA",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 44843,
+      "distance_miles": 1392,
+      "rate_usd": "3075.16",
+      "equipment_type": "Dry Van",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 33,
+    "fields": {
+      "origin": "Dallas, TX",
+      "destination": "Phoenix, AZ",
+      "pickup_date": "2025-07-08",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 25536,
+      "distance_miles": 1425,
+      "rate_usd": "1002.26",
+      "equipment_type": "Flatbed",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 34,
+    "fields": {
+      "origin": "Chicago, IL",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-11",
+      "weight_lbs": 11012,
+      "distance_miles": 630,
+      "rate_usd": "1097.79",
+      "equipment_type": "Dry Van",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 35,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-07",
+      "delivery_date": "2025-07-08",
+      "weight_lbs": 12767,
+      "distance_miles": 1558,
+      "rate_usd": "1789.94",
+      "equipment_type": "Step Deck",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 36,
+    "fields": {
+      "origin": "Chicago, IL",
+      "destination": "San Antonio, TX",
+      "pickup_date": "2025-07-07",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 33313,
+      "distance_miles": 1732,
+      "rate_usd": "4969.32",
+      "equipment_type": "Reefer",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 37,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-12",
+      "delivery_date": "2025-07-13",
+      "weight_lbs": 37244,
+      "distance_miles": 1532,
+      "rate_usd": "1844.83",
+      "equipment_type": "Flatbed",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 38,
+    "fields": {
+      "origin": "Phoenix, AZ",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 15923,
+      "distance_miles": 729,
+      "rate_usd": "4637.57",
+      "equipment_type": "Step Deck",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 39,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Chicago, IL",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-11",
+      "weight_lbs": 32002,
+      "distance_miles": 375,
+      "rate_usd": "2471.25",
+      "equipment_type": "Dry Van",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 40,
+    "fields": {
+      "origin": "Chicago, IL",
+      "destination": "San Antonio, TX",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-16",
+      "weight_lbs": 25979,
+      "distance_miles": 1122,
+      "rate_usd": "684.25",
+      "equipment_type": "Dry Van",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 41,
+    "fields": {
+      "origin": "Atlanta, GA",
+      "destination": "San Antonio, TX",
+      "pickup_date": "2025-07-06",
+      "delivery_date": "2025-07-07",
+      "weight_lbs": 10546,
+      "distance_miles": 1521,
+      "rate_usd": "1392.78",
+      "equipment_type": "Flatbed",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 42,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Chicago, IL",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-16",
+      "weight_lbs": 23293,
+      "distance_miles": 330,
+      "rate_usd": "1371.04",
+      "equipment_type": "Step Deck",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 43,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-07",
+      "delivery_date": "2025-07-08",
+      "weight_lbs": 44158,
+      "distance_miles": 688,
+      "rate_usd": "4850.06",
+      "equipment_type": "Dry Van",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 44,
+    "fields": {
+      "origin": "Miami, FL",
+      "destination": "Chicago, IL",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 28898,
+      "distance_miles": 1241,
+      "rate_usd": "1941.86",
+      "equipment_type": "Step Deck",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 45,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-08",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 24837,
+      "distance_miles": 326,
+      "rate_usd": "2827.99",
+      "equipment_type": "Flatbed",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 46,
+    "fields": {
+      "origin": "Miami, FL",
+      "destination": "Atlanta, GA",
+      "pickup_date": "2025-07-11",
+      "delivery_date": "2025-07-14",
+      "weight_lbs": 23010,
+      "distance_miles": 1603,
+      "rate_usd": "4846.97",
+      "equipment_type": "Flatbed",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 47,
+    "fields": {
+      "origin": "Dallas, TX",
+      "destination": "Houston, TX",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 29034,
+      "distance_miles": 728,
+      "rate_usd": "3680.58",
+      "equipment_type": "Reefer",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 48,
+    "fields": {
+      "origin": "Atlanta, GA",
+      "destination": "Los Angeles, CA",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-11",
+      "weight_lbs": 20631,
+      "distance_miles": 378,
+      "rate_usd": "4193.77",
+      "equipment_type": "Dry Van",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 49,
+    "fields": {
+      "origin": "Dallas, TX",
+      "destination": "Atlanta, GA",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-11",
+      "weight_lbs": 33959,
+      "distance_miles": 1398,
+      "rate_usd": "1306.74",
+      "equipment_type": "Reefer",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 50,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "El Paso, TX",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 39182,
+      "distance_miles": 1210,
+      "rate_usd": "1776.89",
+      "equipment_type": "Reefer",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 51,
+    "fields": {
+      "origin": "Austin, TX",
+      "destination": "Atlanta, GA",
+      "pickup_date": "2025-07-13",
+      "delivery_date": "2025-07-15",
+      "weight_lbs": 28476,
+      "distance_miles": 1147,
+      "rate_usd": "2304.31",
+      "equipment_type": "Step Deck",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 52,
+    "fields": {
+      "origin": "Chicago, IL",
+      "destination": "San Antonio, TX",
+      "pickup_date": "2025-07-08",
+      "delivery_date": "2025-07-09",
+      "weight_lbs": 30108,
+      "distance_miles": 1484,
+      "rate_usd": "598.17",
+      "equipment_type": "Flatbed",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 53,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "Miami, FL",
+      "pickup_date": "2025-07-07",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 17125,
+      "distance_miles": 1477,
+      "rate_usd": "4885.77",
+      "equipment_type": "Step Deck",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 54,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "Houston, TX",
+      "pickup_date": "2025-07-11",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 27077,
+      "distance_miles": 320,
+      "rate_usd": "2948.91",
+      "equipment_type": "Step Deck",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 55,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "Miami, FL",
+      "pickup_date": "2025-07-06",
+      "delivery_date": "2025-07-09",
+      "weight_lbs": 10299,
+      "distance_miles": 175,
+      "rate_usd": "1447.21",
+      "equipment_type": "Flatbed",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 56,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 30025,
+      "distance_miles": 365,
+      "rate_usd": "2145.4",
+      "equipment_type": "Dry Van",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 57,
+    "fields": {
+      "origin": "Miami, FL",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-15",
+      "weight_lbs": 11235,
+      "distance_miles": 1464,
+      "rate_usd": "3458.55",
+      "equipment_type": "Step Deck",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 58,
+    "fields": {
+      "origin": "Atlanta, GA",
+      "destination": "Phoenix, AZ",
+      "pickup_date": "2025-07-08",
+      "delivery_date": "2025-07-09",
+      "weight_lbs": 44599,
+      "distance_miles": 1088,
+      "rate_usd": "3404.15",
+      "equipment_type": "Reefer",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 59,
+    "fields": {
+      "origin": "Atlanta, GA",
+      "destination": "Miami, FL",
+      "pickup_date": "2025-07-12",
+      "delivery_date": "2025-07-15",
+      "weight_lbs": 14818,
+      "distance_miles": 741,
+      "rate_usd": "2517.24",
+      "equipment_type": "Flatbed",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 60,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "San Antonio, TX",
+      "pickup_date": "2025-07-11",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 36905,
+      "distance_miles": 1404,
+      "rate_usd": "4338.05",
+      "equipment_type": "Step Deck",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 61,
+    "fields": {
+      "origin": "Houston, TX",
+      "destination": "San Antonio, TX",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 35856,
+      "distance_miles": 1425,
+      "rate_usd": "2862.46",
+      "equipment_type": "Dry Van",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 62,
+    "fields": {
+      "origin": "Houston, TX",
+      "destination": "Miami, FL",
+      "pickup_date": "2025-07-05",
+      "delivery_date": "2025-07-06",
+      "weight_lbs": 44894,
+      "distance_miles": 1177,
+      "rate_usd": "4736.38",
+      "equipment_type": "Dry Van",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 63,
+    "fields": {
+      "origin": "Miami, FL",
+      "destination": "Chicago, IL",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-17",
+      "weight_lbs": 12466,
+      "distance_miles": 118,
+      "rate_usd": "3960.83",
+      "equipment_type": "Reefer",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 64,
+    "fields": {
+      "origin": "Houston, TX",
+      "destination": "Phoenix, AZ",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 25267,
+      "distance_miles": 990,
+      "rate_usd": "4971.99",
+      "equipment_type": "Flatbed",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 65,
+    "fields": {
+      "origin": "Houston, TX",
+      "destination": "El Paso, TX",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-17",
+      "weight_lbs": 14124,
+      "distance_miles": 1781,
+      "rate_usd": "3272.58",
+      "equipment_type": "Dry Van",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 66,
+    "fields": {
+      "origin": "Phoenix, AZ",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-11",
+      "delivery_date": "2025-07-14",
+      "weight_lbs": 32764,
+      "distance_miles": 1354,
+      "rate_usd": "4943.98",
+      "equipment_type": "Dry Van",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 67,
+    "fields": {
+      "origin": "Miami, FL",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 20300,
+      "distance_miles": 302,
+      "rate_usd": "945.89",
+      "equipment_type": "Reefer",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 68,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-13",
+      "delivery_date": "2025-07-16",
+      "weight_lbs": 29190,
+      "distance_miles": 807,
+      "rate_usd": "2742.88",
+      "equipment_type": "Flatbed",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 69,
+    "fields": {
+      "origin": "Houston, TX",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 43400,
+      "distance_miles": 1876,
+      "rate_usd": "1552.76",
+      "equipment_type": "Dry Van",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 70,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "San Antonio, TX",
+      "pickup_date": "2025-07-12",
+      "delivery_date": "2025-07-14",
+      "weight_lbs": 27280,
+      "distance_miles": 1625,
+      "rate_usd": "1192.51",
+      "equipment_type": "Dry Van",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 71,
+    "fields": {
+      "origin": "Austin, TX",
+      "destination": "Miami, FL",
+      "pickup_date": "2025-07-05",
+      "delivery_date": "2025-07-06",
+      "weight_lbs": 14809,
+      "distance_miles": 1392,
+      "rate_usd": "4753.72",
+      "equipment_type": "Reefer",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 72,
+    "fields": {
+      "origin": "Miami, FL",
+      "destination": "Los Angeles, CA",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-10",
+      "weight_lbs": 20997,
+      "distance_miles": 967,
+      "rate_usd": "513.28",
+      "equipment_type": "Dry Van",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 73,
+    "fields": {
+      "origin": "Atlanta, GA",
+      "destination": "Phoenix, AZ",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-16",
+      "weight_lbs": 29509,
+      "distance_miles": 745,
+      "rate_usd": "2487.95",
+      "equipment_type": "Dry Van",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 74,
+    "fields": {
+      "origin": "Los Angeles, CA",
+      "destination": "Dallas, TX",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-15",
+      "weight_lbs": 10999,
+      "distance_miles": 1869,
+      "rate_usd": "4581.75",
+      "equipment_type": "Step Deck",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 75,
+    "fields": {
+      "origin": "Chicago, IL",
+      "destination": "San Antonio, TX",
+      "pickup_date": "2025-07-12",
+      "delivery_date": "2025-07-14",
+      "weight_lbs": 13874,
+      "distance_miles": 1176,
+      "rate_usd": "1764.8",
+      "equipment_type": "Step Deck",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 76,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "Phoenix, AZ",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 22215,
+      "distance_miles": 1987,
+      "rate_usd": "2764.38",
+      "equipment_type": "Dry Van",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 77,
+    "fields": {
+      "origin": "Austin, TX",
+      "destination": "Houston, TX",
+      "pickup_date": "2025-07-05",
+      "delivery_date": "2025-07-07",
+      "weight_lbs": 14533,
+      "distance_miles": 158,
+      "rate_usd": "3816.92",
+      "equipment_type": "Flatbed",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 78,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "Atlanta, GA",
+      "pickup_date": "2025-07-08",
+      "delivery_date": "2025-07-09",
+      "weight_lbs": 38165,
+      "distance_miles": 1474,
+      "rate_usd": "4566.58",
+      "equipment_type": "Dry Van",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 79,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-12",
+      "delivery_date": "2025-07-14",
+      "weight_lbs": 12854,
+      "distance_miles": 1141,
+      "rate_usd": "926.34",
+      "equipment_type": "Step Deck",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 80,
+    "fields": {
+      "origin": "Los Angeles, CA",
+      "destination": "Atlanta, GA",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 32076,
+      "distance_miles": 685,
+      "rate_usd": "4184.64",
+      "equipment_type": "Step Deck",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 81,
+    "fields": {
+      "origin": "Dallas, TX",
+      "destination": "Atlanta, GA",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 43338,
+      "distance_miles": 748,
+      "rate_usd": "3552.2",
+      "equipment_type": "Dry Van",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 82,
+    "fields": {
+      "origin": "Los Angeles, CA",
+      "destination": "Chicago, IL",
+      "pickup_date": "2025-07-11",
+      "delivery_date": "2025-07-14",
+      "weight_lbs": 20977,
+      "distance_miles": 1938,
+      "rate_usd": "4521.99",
+      "equipment_type": "Reefer",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 83,
+    "fields": {
+      "origin": "Houston, TX",
+      "destination": "Phoenix, AZ",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-11",
+      "weight_lbs": 25348,
+      "distance_miles": 1662,
+      "rate_usd": "1803.45",
+      "equipment_type": "Dry Van",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 84,
+    "fields": {
+      "origin": "Los Angeles, CA",
+      "destination": "Houston, TX",
+      "pickup_date": "2025-07-07",
+      "delivery_date": "2025-07-08",
+      "weight_lbs": 38837,
+      "distance_miles": 998,
+      "rate_usd": "3814.02",
+      "equipment_type": "Flatbed",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 85,
+    "fields": {
+      "origin": "Miami, FL",
+      "destination": "Chicago, IL",
+      "pickup_date": "2025-07-12",
+      "delivery_date": "2025-07-14",
+      "weight_lbs": 34881,
+      "distance_miles": 1020,
+      "rate_usd": "4355.03",
+      "equipment_type": "Flatbed",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 86,
+    "fields": {
+      "origin": "Phoenix, AZ",
+      "destination": "Chicago, IL",
+      "pickup_date": "2025-07-11",
+      "delivery_date": "2025-07-13",
+      "weight_lbs": 16098,
+      "distance_miles": 263,
+      "rate_usd": "962.33",
+      "equipment_type": "Flatbed",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 87,
+    "fields": {
+      "origin": "Chicago, IL",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-05",
+      "delivery_date": "2025-07-06",
+      "weight_lbs": 38618,
+      "distance_miles": 1217,
+      "rate_usd": "837.81",
+      "equipment_type": "Reefer",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 88,
+    "fields": {
+      "origin": "Chicago, IL",
+      "destination": "San Antonio, TX",
+      "pickup_date": "2025-07-08",
+      "delivery_date": "2025-07-11",
+      "weight_lbs": 42709,
+      "distance_miles": 102,
+      "rate_usd": "3056.93",
+      "equipment_type": "Flatbed",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 89,
+    "fields": {
+      "origin": "Chicago, IL",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-09",
+      "delivery_date": "2025-07-11",
+      "weight_lbs": 10694,
+      "distance_miles": 611,
+      "rate_usd": "2026.58",
+      "equipment_type": "Step Deck",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 90,
+    "fields": {
+      "origin": "Los Angeles, CA",
+      "destination": "Phoenix, AZ",
+      "pickup_date": "2025-07-10",
+      "delivery_date": "2025-07-13",
+      "weight_lbs": 25945,
+      "distance_miles": 1176,
+      "rate_usd": "2764.64",
+      "equipment_type": "Step Deck",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 91,
+    "fields": {
+      "origin": "Miami, FL",
+      "destination": "Chicago, IL",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-17",
+      "weight_lbs": 19631,
+      "distance_miles": 623,
+      "rate_usd": "1464.59",
+      "equipment_type": "Step Deck",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 92,
+    "fields": {
+      "origin": "Dallas, TX",
+      "destination": "Phoenix, AZ",
+      "pickup_date": "2025-07-11",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 10941,
+      "distance_miles": 1422,
+      "rate_usd": "3662.64",
+      "equipment_type": "Dry Van",
+      "broker": "Road King Brokers"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 93,
+    "fields": {
+      "origin": "Phoenix, AZ",
+      "destination": "Atlanta, GA",
+      "pickup_date": "2025-07-08",
+      "delivery_date": "2025-07-09",
+      "weight_lbs": 25578,
+      "distance_miles": 1636,
+      "rate_usd": "4386.96",
+      "equipment_type": "Step Deck",
+      "broker": "Eagle Dispatch"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 94,
+    "fields": {
+      "origin": "El Paso, TX",
+      "destination": "Austin, TX",
+      "pickup_date": "2025-07-12",
+      "delivery_date": "2025-07-13",
+      "weight_lbs": 43296,
+      "distance_miles": 1752,
+      "rate_usd": "3544.42",
+      "equipment_type": "Reefer",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 95,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "El Paso, TX",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-15",
+      "weight_lbs": 21513,
+      "distance_miles": 846,
+      "rate_usd": "815.88",
+      "equipment_type": "Dry Van",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 96,
+    "fields": {
+      "origin": "Atlanta, GA",
+      "destination": "Miami, FL",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-17",
+      "weight_lbs": 12981,
+      "distance_miles": 1995,
+      "rate_usd": "2051.82",
+      "equipment_type": "Step Deck",
+      "broker": "EasyHaul LLC"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 97,
+    "fields": {
+      "origin": "Atlanta, GA",
+      "destination": "El Paso, TX",
+      "pickup_date": "2025-07-13",
+      "delivery_date": "2025-07-16",
+      "weight_lbs": 41182,
+      "distance_miles": 1057,
+      "rate_usd": "2727.47",
+      "equipment_type": "Dry Van",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 98,
+    "fields": {
+      "origin": "Los Angeles, CA",
+      "destination": "El Paso, TX",
+      "pickup_date": "2025-07-14",
+      "delivery_date": "2025-07-16",
+      "weight_lbs": 17992,
+      "distance_miles": 1484,
+      "rate_usd": "2414.4",
+      "equipment_type": "Step Deck",
+      "broker": "FastLoad Inc"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 99,
+    "fields": {
+      "origin": "San Antonio, TX",
+      "destination": "Atlanta, GA",
+      "pickup_date": "2025-07-11",
+      "delivery_date": "2025-07-12",
+      "weight_lbs": 38644,
+      "distance_miles": 778,
+      "rate_usd": "1047.01",
+      "equipment_type": "Step Deck",
+      "broker": "Quick Freight"
+    }
+  },
+  {
+    "model": "loads.load",
+    "pk": 100,
+    "fields": {
+      "origin": "Phoenix, AZ",
+      "destination": "Miami, FL",
+      "pickup_date": "2025-07-07",
+      "delivery_date": "2025-07-09",
+      "weight_lbs": 10455,
+      "distance_miles": 167,
+      "rate_usd": "4484.4",
+      "equipment_type": "Step Deck",
+      "broker": "EasyHaul LLC"
+    }
+  }
+]
